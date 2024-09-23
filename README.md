@@ -1,0 +1,1 @@
+# plugins-bookingcom-product-helper
